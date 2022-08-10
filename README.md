@@ -6,6 +6,7 @@
 <br>
 
 ### :snake:  Python 
+- ### [California Housing: Machine Learning Project](https://github.com/stcampione/CA-Housing/blob/master/CAHousing.ipynb)
 - ### 
 <br>
 <br>
