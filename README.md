@@ -1,6 +1,6 @@
 ## <span style="color:salmon;">About me</span> :bust_in_silhouette:
 
-* I just graduated from UC Davis and decided to spend my time learning and practicing machine learning and "data science"
+* I recently graduated from UC Davis :cow2: and decided to spend my time learning and practicing machine learning and "data science"
 *  Becuase of my social science background and several years of being a research assistant, I have a strong grasp of data analysis, programming, descriptive and inferential statistics, and modeling.
 * This the documentation of my journey as a researcher, "data scientist", and explorer 
 
