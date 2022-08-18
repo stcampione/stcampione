@@ -9,20 +9,20 @@
 
 ### :bar_chart:  R
 #### - [Hollywood Closet Project: Exploratory Data Analysis](https://github.com/stcampione/HCP-Data-Analysis/blob/main/hcp-eda.md)
-#### - [Sample Comparisons: Daily Physical Activity and Personality (FFM) Project](https://github.com/stcampione/Physical-Activity-Personality/blob/main/M1%20MRef%20compare%20samples.R)
-#### - [Cigarette Smoking and Neuroticism Personality Trait](https://github.com/stcampione/Cigarette-Smoking-Negative-Emotionality)
+#### - [Sample Comparisons: Daily Physical Activity and Personality (FFM)](https://github.com/stcampione/Physical-Activity-Personality/blob/main/M1%20MRef%20compare%20samples.R)
+#### - [Cigarette Smoking and Negative Emotionality](https://github.com/stcampione/Cigarette-Smoking-Negative-Emotionality)
 
 
 
 <br>
 
 ### :snake:  Python 
-#### - [California Housing: Machine Learning Project](https://github.com/stcampione/CA-Housing/blob/master/CAHousing.ipynb)
+#### - [California Housing Predictions: Machine Learning Project](https://github.com/stcampione/CA-Housing/blob/master/CAHousing.ipynb)
 
 <br>
 
 ### :chart_with_upwards_trend: SAS 
-#### - [Mixed Effects Model: Daily Physical Activity and Personality (FFM) Project](https://github.com/stcampione/Physical-Activity-Personality)
+#### - [Mixed Effects Model: Daily Physical Activity and Personality (FFM)](https://github.com/stcampione/Physical-Activity-Personality)
 
 
 <br>
