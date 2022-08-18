@@ -9,6 +9,7 @@
 
 ### :bar_chart:  R
 #### - [Hollywood Closet Project: Exploratory Data Analysis](https://github.com/stcampione/HCP-Data-Analysis/blob/main/hcp-eda.md)
+#### - [Sample Comparisons: Daily Physical Activity and Personality (FFM) Project](https://github.com/stcampione/Physical-Activity-Personality/blob/main/M1%20MRef%20compare%20samples.R)
 
 <br>
 
@@ -17,6 +18,8 @@
 
 <br>
 
+### :chart_with_upwards_trend: SAS 
+#### - [Mixed Effects Model: Daily Physical Activity and Personality (FFM) Project](https://github.com/stcampione/Physical-Activity-Personality)
 
 
 <br>
