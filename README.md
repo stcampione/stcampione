@@ -6,7 +6,7 @@
 
 ## <span style="color:dimgray;">Projects: </span> 
 
-#### - [Mixed Effects Model: Daily Physical Activity and Personality (FFM) in Older Adults](https://github.com/stcampione/Physical-Activity-Personality)
+#### - [Predicting Daily Physical Activity in Older Adults Using a Two-Part Random Effects Model](https://github.com/stcampione/Predicting-Exercise-in-Older-Adults)
 #### - [Sample Comparisons: Daily Physical Activity and Personality (FFM) in Older Adults](https://github.com/stcampione/Physical-Activity-Personality/blob/main/M1%20MRef%20Comparison.R)
 #### - [Hollywood Closet Project: Exploratory Data Analysis](https://github.com/stcampione/HCP-Data-Analysis/blob/main/hcp-eda.md)
 #### - [Cigarette Smoking and Negative Emotionality](https://github.com/stcampione/Cigarette-Smoking-Negative-Emotionality)
